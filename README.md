@@ -75,9 +75,7 @@
 
 <h2 align="center">🚀 Giới thiệu ITPrep 🚀</h2>
 <br>
-<p><strong>☕ ITPrep là nền tảng chia sẻ lộ trình học và tài liệu thực chiến giúp sinh viên/Fresher chuẩn bị kiến thức và kỹ năng để tự tin ứng tuyển ngành IT.</strong></p>
-
-<p><strong>☕ Trang web được tổ chức trực quan với Hero Section, Category Hub, Trending Section và Footer để người học dễ dàng tìm đúng nội dung theo mục tiêu.</strong></p>
+<p><strong>☕ ITPrep là blog chia sẻ lộ trình học và tài liệu thực chiến giúp sinh viên/Fresher chuẩn bị kiến thức và kỹ năng để tự tin ứng tuyển ngành IT.</strong></p>
 
 <p><strong>☕ 5 nhóm chủ đề chính:</strong> Backend, Frontend, Database/SQL, AI/ML/DL và Kỹ năng - Tuyển dụng (CV, phỏng vấn, deal lương, công cụ làm việc).</p>
 
