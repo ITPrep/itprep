@@ -51,53 +51,43 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://itprep.com.vn/" target="blank">
+    <img width="90" height="90" src="images/logo-itprep.png" alt="itprep-blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/share/1C9YzY5ZEH/?mibextid=wwXIfr" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="itprep-facebook" />
   </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.youtube.com/@itprep-official" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="itprep-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/it-prep-0463aa3b6/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="itprep-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="mailto:itprepteam@gmail.com" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="itprep-email" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href ="https://www.tiktok.com/@itprep_official" target="blank">
+    <img width="100" height="100" src="https://img.icons8.com/bubbles/100/tiktok.png" alt="tiktok"/>
   </a>
 </div>
 
 <br>
 
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
+<h2 align="center">🚀 Giới thiệu ITPrep 🚀</h2>
 <br>
-<p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtube.com/@trungquandev" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
+<p><strong>ITPrep là nền tảng chia sẻ lộ trình học và tài liệu thực chiến giúp sinh viên/Fresher chuẩn bị kiến thức và kỹ năng để tự tin ứng tuyển ngành IT.</strong></p>
 
+<p><strong>Trang web được tổ chức trực quan với Hero Section, Category Hub, Trending Section và Footer để người học dễ dàng tìm đúng nội dung theo mục tiêu.</strong></p>
+
+<p><strong>5 nhóm chủ đề chính:</strong> Backend, Frontend, Database/SQL, AI/ML/DL và Kỹ năng - Tuyển dụng (CV, phỏng vấn, deal lương, công cụ làm việc).</p>
+
+<p><strong>Nội dung tập trung vào:</strong> roadmap học tập, cheat sheet, bộ câu hỏi phỏng vấn, bài thực hành và các hướng dẫn áp dụng AI trong học tập/làm việc.</p>
+
+<p><strong>Mục tiêu của ITPrep:</strong> giúp bạn rút ngắn thời gian tự học, học đúng trọng tâm và sẵn sàng cho hành trình Intern/Fresher Developer.</p>
+<img src="images/itprep.jpg" width="1200" alt="itprep">
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/itprep-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
 </a>
