@@ -84,7 +84,7 @@
 <p><strong>☕ Nội dung tập trung vào:</strong> roadmap học tập, cheat sheet, bộ câu hỏi phỏng vấn, bài thực hành và các hướng dẫn áp dụng AI trong học tập/làm việc.</p>
 
 <p><strong>☕ Mục tiêu của ITPrep:</strong> giúp bạn rút ngắn thời gian tự học, học đúng trọng tâm và sẵn sàng cho hành trình Intern/Fresher Developer.</p>
-<img src="images/itprep.jpg" width="1200" height="500" alt="itprep">
+<img src="images/itprep.jpg" width="1200" height="800" alt="itprep">
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
