@@ -75,16 +75,16 @@
 
 <h2 align="center">🚀 Giới thiệu ITPrep 🚀</h2>
 <br>
-<p><strong>ITPrep là nền tảng chia sẻ lộ trình học và tài liệu thực chiến giúp sinh viên/Fresher chuẩn bị kiến thức và kỹ năng để tự tin ứng tuyển ngành IT.</strong></p>
+<p><strong>☕ ITPrep là nền tảng chia sẻ lộ trình học và tài liệu thực chiến giúp sinh viên/Fresher chuẩn bị kiến thức và kỹ năng để tự tin ứng tuyển ngành IT.</strong></p>
 
-<p><strong>Trang web được tổ chức trực quan với Hero Section, Category Hub, Trending Section và Footer để người học dễ dàng tìm đúng nội dung theo mục tiêu.</strong></p>
+<p><strong>☕ Trang web được tổ chức trực quan với Hero Section, Category Hub, Trending Section và Footer để người học dễ dàng tìm đúng nội dung theo mục tiêu.</strong></p>
 
-<p><strong>5 nhóm chủ đề chính:</strong> Backend, Frontend, Database/SQL, AI/ML/DL và Kỹ năng - Tuyển dụng (CV, phỏng vấn, deal lương, công cụ làm việc).</p>
+<p><strong>☕ 5 nhóm chủ đề chính:</strong> Backend, Frontend, Database/SQL, AI/ML/DL và Kỹ năng - Tuyển dụng (CV, phỏng vấn, deal lương, công cụ làm việc).</p>
 
-<p><strong>Nội dung tập trung vào:</strong> roadmap học tập, cheat sheet, bộ câu hỏi phỏng vấn, bài thực hành và các hướng dẫn áp dụng AI trong học tập/làm việc.</p>
+<p><strong>☕ Nội dung tập trung vào:</strong> roadmap học tập, cheat sheet, bộ câu hỏi phỏng vấn, bài thực hành và các hướng dẫn áp dụng AI trong học tập/làm việc.</p>
 
-<p><strong>Mục tiêu của ITPrep:</strong> giúp bạn rút ngắn thời gian tự học, học đúng trọng tâm và sẵn sàng cho hành trình Intern/Fresher Developer.</p>
-<img src="images/itprep.jpg" width="1200" height="auto" alt="itprep">
+<p><strong>☕ Mục tiêu của ITPrep:</strong> giúp bạn rút ngắn thời gian tự học, học đúng trọng tâm và sẵn sàng cho hành trình Intern/Fresher Developer.</p>
+<img src="images/itprep.jpg" width="1200" height="500" alt="itprep">
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
