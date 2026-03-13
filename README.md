@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/itprep.svg.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/itprep.svg" width="1200" alt="itprep-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
